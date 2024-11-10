@@ -8,11 +8,9 @@ import sys
 # Configuration: replace with your repository URL and target directory
 REPO_URL = "https://github.com/saadZaari/delisting_smart-senders"
 TARGET_DIR = os.path.join(os.path.expanduser("~"), "Desktop", "delisting_smart-senders")
-
-
 def install_git():
     """Download and install Git silently if not already installed."""
-    # Try to get the Git version by running `git --version`
+    # Try to get the Git version by running git --version
     try:
         result = subprocess.run(["git", "--version"], check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         print("Git is already installed.")
