@@ -47,7 +47,7 @@ def add_to_path():
 def main():
     # Check if geckodriver exists
     geckodriver_path = check_geckodriver()
-    if geckodriver_path
+    if geckodriver_path:
         # Add geckodriver folder to the PATH
         if add_to_path():
             print("Geckodriver setup completed successfully.")
@@ -58,4 +58,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-قعى
