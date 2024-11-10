@@ -1,10 +1,11 @@
 import os
 import sys
 import subprocess
+import winreg
 
 # Dynamically determine the path to geckodriver by navigating from the current script's folder
 current_folder = os.path.dirname(os.path.abspath(__file__))  # Get the folder where the script is located
-geckodriver_folder = os.path.join(current_folder, '..', 'Delisting Scripts')  # Go one folder up and then into 'scripts'
+geckodriver_folder = os.path.join(current_folder, '..', 'Delisting Scripts')  # Go one folder up and then into 'Delisting Scripts'
 GECKODRIVER_PATH = os.path.join(geckodriver_folder, 'geckodriver.exe')  # Final path to geckodriver.exe
 
 def check_geckodriver():
@@ -44,6 +45,29 @@ def add_to_path():
 
     return True
 
+def set_python_as_default_for_py_files():
+    """Set Python as the default application to open .py files on Windows."""
+    try:
+        # Get the path to the current Python executable
+        python_path = sys.executable
+        
+        # Define registry keys for the default app for .py files
+        py_auto_file_key = r"Software\Classes\Python.File\shell\open\command"
+        py_extension_key = r"Software\Classes\.py"
+        
+        # Set .py files to be associated with Python
+        with winreg.OpenKey(winreg.HKEY_CURRENT_USER, py_extension_key, 0, winreg.KEY_SET_VALUE) as key:
+            winreg.SetValueEx(key, "", 0, winreg.REG_SZ, "Python.File")
+
+        # Set Python executable as the command for opening .py files
+        with winreg.OpenKey(winreg.HKEY_CURRENT_USER, py_auto_file_key, 0, winreg.KEY_SET_VALUE) as key:
+            command = f'"{python_path}" "%1" %*'
+            winreg.SetValueEx(key, "", 0, winreg.REG_SZ, command)
+
+        print("Python is now set as the default application for .py files.")
+    except Exception as e:
+        print(f"An error occurred while setting Python as the default app: {e}")
+
 def main():
     # Check if geckodriver exists
     geckodriver_path = check_geckodriver()
@@ -54,7 +78,10 @@ def main():
         else:
             print("Failed to set up geckodriver in the PATH.")
     else:
-        print("Please download geckodriver and place it in the 'scripts' folder.")
+        print("Please download geckodriver and place it in the 'Delisting Scripts' folder.")
+    
+    # Set Python as the default application for .py files
+    set_python_as_default_for_py_files()
 
 if __name__ == "__main__":
     main()

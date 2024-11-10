@@ -100,7 +100,7 @@ try:
     driver.get("https://addons.mozilla.org/firefox/downloads/file/4212703/urban_vpn-3.14.0.xpi")
     
     # Wait a few seconds for the extension installation prompt to appear
-    time.sleep(5)
+    time.sleep(2)
 
     # Navigate to the login page after opening the VPN download link
     driver.get("https://login.microsoftonline.com")
