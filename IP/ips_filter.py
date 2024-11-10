@@ -67,3 +67,4 @@ def filter_ips_from_input():
 
 if __name__ == "__main__":
     filter_ips_from_input()
+    input("Press Enter to exit...")  # Pause the script to prevent immediate closure
