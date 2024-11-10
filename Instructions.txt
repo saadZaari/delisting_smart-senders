@@ -1,0 +1,2 @@
+1 - open installer.py and wait until git installed 
+2 - open again installer.py to install the script
