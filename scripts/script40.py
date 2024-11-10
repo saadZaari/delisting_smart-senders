@@ -23,7 +23,7 @@ driver = webdriver.Firefox(service=FirefoxService(executable_path=geckodriver_pa
 
 def read_ips_from_file():
     """Read IPs from a text file and return a list of IP addresses."""
-    filename = 'BL40.txt'
+    filename = '../ips/BL40.txt'
     with open(filename, 'r') as file:
         ips = [line.strip() for line in file if line.strip()]
     return ips
