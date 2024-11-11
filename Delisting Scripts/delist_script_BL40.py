@@ -9,6 +9,9 @@ from selenium.webdriver.support.ui import Select
 import time
 import os
 
+# Ask user how many times to repeat each IP before launching the browser
+repeat_count = int(input("Enter the number of times to repeat each IP: "))
+
 # Automatically detect the script directory and locate geckodriver
 script_dir = os.path.dirname(os.path.abspath(__file__))
 geckodriver_path = os.path.join(script_dir, 'geckodriver.exe')
@@ -110,12 +113,13 @@ try:
     driver.get("https://olcsupport.office.com/")
     WebDriverWait(driver, 50).until(EC.presence_of_element_located((By.ID, 'IssueTitle')))
 
-    # Read IP addresses from file
+    # Read IP addresses from file and multiply according to user input
     ips = read_ips_from_file()
-    total_ips = len(ips)  # Get the total number of IPs
+    repeated_ips = ips * repeat_count  # Duplicate the list based on user input
+    total_ips = len(repeated_ips)  # Get the total number of IPs
 
     # Submit each IP address one by one
-    for index, ip in enumerate(ips, start=1):  # start=1 for 1-based indexing
+    for index, ip in enumerate(repeated_ips, start=1):  # start=1 for 1-based indexing
         success = submit_ip(ip, index, total_ips)
         if success:
             print(f"IP {index}/{total_ips} ({ip}) submitted successfully.")
