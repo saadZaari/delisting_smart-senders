@@ -54,15 +54,7 @@ def install_git():
     import time
     time.sleep(2)
 
-    # Check if Git is now installed (after installation and PATH update)
-    try:
-        result = subprocess.run(["git", "--version"], check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-        print("Git is successfully installed and ready to use.")
-        return True
-    except subprocess.CalledProcessError:
-        print("Git installation did not complete successfully.")
-        return False
- 
+   
 # def clone_or_pull_repo():
 #     """Clone the repository if it doesn’t exist, otherwise pull the latest changes."""
 #     if not os.path.exists(TARGET_DIR):
