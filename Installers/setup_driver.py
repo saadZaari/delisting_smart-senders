@@ -68,6 +68,18 @@ def set_python_as_default_for_py_files():
     except Exception as e:
         print(f"An error occurred while setting Python as the default app: {e}")
 
+def initialize_git_repo():
+    """Initialize a Git repository in the current directory."""
+    try:
+        result = subprocess.run(['git', 'init'], capture_output=True, text=True)
+        print(result.stdout)
+        if result.stderr:
+            print(f"Git init errors: {result.stderr}")
+        else:
+            print("Initialized an empty Git repository in the current directory.")
+    except Exception as e:
+        print(f"An error occurred while initializing the Git repository: {e}")
+
 def main():
     # Check if geckodriver exists
     geckodriver_path = check_geckodriver()
@@ -82,6 +94,9 @@ def main():
     
     # Set Python as the default application for .py files
     set_python_as_default_for_py_files()
+
+    # Initialize Git repository
+    initialize_git_repo()
 
 if __name__ == "__main__":
     main()
