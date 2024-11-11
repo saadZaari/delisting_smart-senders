@@ -1,319 +1,344 @@
-EMT_SF20346	87.251.83.50				PV160	RU	5	astralharbor.space			?	Yes	Yes		BL50																																																																																																																																				BL50
-EMT_SF20023	141.98.232.27				PV214	UK	20	beyondboundaries.space			?	Yes	No																																																																																																																																						BL50
-EMT_SF20024	141.98.232.219				PV214	UK	20	careerchronicle.bio			?	Yes	No																																																																																																																																						BL50
-EMT_SF20345	87.251.83.49				PV160	RU	5	careerclarity.bio			?	Yes	No																																																																																																																																						BL50
-EMT_SF20423	87.251.81.154				PV160	RU	1	interstellarhub.space			?	Yes	No																																																																																																																																						BL50
-	87.251.81.155									To keep	?	No	No																																																																																																																																						BL50
-	87.251.81.156										?	No	No																																																																																																																																						BL50
-EMT_SF20425	87.251.81.148				PV160	RU	1				?		No																																																																																																																																						S
-	87.251.81.149									To keep	?		No																																																																																																																																						BL50
-	87.251.81.150										?		No																																																																																																																																						BL50
-EMT_SF20424	87.251.81.151				PV160	RU	1				?		No																																																																																																																																						BL50
-	87.251.81.152									To keep	?		No																																																																																																																																						BL50
-	87.251.81.153										?		No																																																																																																																																						BL50
-EMT_SF21848	80.96.156.187				PV18	JP	27				?		No																																																																																																																																						S
-EMT_SF21849	80.96.156.188				PV18	JP	27				?		No																																																																																																																																						S
-EMT_SF21850	80.96.156.210				PV18	JP	27	globalodyssey.bio			?		No																																																																																																																																						BL50
-EMT_SF21851	80.96.156.217				PV18	JP	27				?		No																																																																																																																																						BL50
-EMT_SF21852	80.96.156.224				PV18	JP	27				?		No																																																																																																																																						BL50
-EMT_SF28672	80.96.156.59				PV18	JP	27				?		No																																																																																																																																						BL50
-EMT_SF29332	80.96.157.66				PV18	US	2				?		No																																																																																																																																						BL50
-EMT_SF33637	80.96.156.53				PV18	US	17				?		No																																																																																																																																						BL50
-EMT_S37368	5.183.102.140				PV488	UK	8				?		Yes																																																																																																																																						BL40
-EMT_SF33128	5.183.103.150				PV488	CZ	16				?		Yes																																																																																																																																						S.D
-EMT_SF33122	5.183.103.160				PV488	CZ	16	technovast.space			Clean	Yes	Yes																																																																																																																																						BL40
-EMT_S40553	5.183.103.132				PV488	CZ	6				?		Yes																																																																																																																																						BL50
-EMT_S35096	80.96.156.185				PV18	CZ	17				?		No																																																																																																																																						BL50
-EMT_S36336	104.219.233.179				PV452	AU	24	techinnovates.site			Clean	Yes	Yes																																																																																																																																						M15
-EMT_S44773	104.219.233.131				PV452	AU	24	cosmicfront.space			Yes	Yes	Yes																																																																																																																																						BL40
-EMT_S36602	104.219.233.191				PV452	AU	25	culinarycurator.bio			Clean	Yes	Yes																																																																																																																																						BL40
-EMT_S36860	80.96.156.248				PV18	JP	25				?		No																																																																																																																																						BL50
-EMT_S36859	80.96.156.250				PV18	JP	25				?		No																																																																																																																																						BL50
-EMT_S36865	80.96.156.251				PV18	JP	25				?		No																																																																																																																																						BL50
-EMT_S36892	80.96.156.254				PV18	JP	25				?		No																																																																																																																																						BL50
-EMT_S37375	80.96.156.253				PV18	JP	25				?		No																																																																																																																																						BL50
-EMT_S37539	95.213.139.17				PV160	RU	25				?		Yes																																																																																																																																						BL50
-EMT_S37538	95.213.139.10				PV160	RU	25				?		Yes																																																																																																																																						BL50
-EMT_S40620 	95.213.173.37				PV160	RU	7				?		Yes																																																																																																																																						m6
-EMT_S40619	95.213.173.38				PV160	RU	7				?		Yes																																																																																																																																						BL50
-EMT_S37537	95.213.139.9				PV160	RU	25				?		Yes																																																																																																																																						BL50
-EMT_S41041	95.213.139.8				PV160	RU	25				?		Yes																																																																																																																																						BL50
-EMT_SF29335 	81.181.111.84				PV18	SE	2	mindfulmomentum.bio			Yes	Yes	Yes																																																																																																																																						BL50
-EMT_S41736	81.181.104.57				PV18	PL	11			2024-11-21	?		No																																																																																																																																						
-EMT_S41728	194.102.180.158				PV18	FR	11				?		No																																																																																																																																						BL40
-EMT_S41726	81.181.108.24				PV18	GB	11				?		No																																																																																																																																						BL50
-EMT_S41776	103.163.214.112				PV528	VN	11				?		No																																																																																																																																						BL50
-EMT_S41757	193.226.76.57				PV18	UK	11				?		No																																																																																																																																						BL50
-EMT_S41739	81.181.110.86				PV18	NL	11				?		No																																																																																																																																						BL50
-EMT_S41794	5.253.247.252				PV316	DE	11				?		Yes																																																																																																																																						S.D
-EMT_S42012	45.8.127.195				PV81	RU	12	nebulaexplorer.space			Clean	Yes	Yes																																																																																																																																						BL50
-EMT_S42013	45.8.127.146				PV81	RU	12				?		Yes																																																																																																																																						BL50
-EMT_S42959	5.183.103.154				PV488	CZ	14				?		Yes																																																																																																																																						BL50
-EMT_S43437	5.183.101.77				PV488	CZ	16				?		Yes																																																																																																																																						BL50
-EMT_S43439	5.183.103.182				PV488	CZ	16				?		Yes																																																																																																																																						BL50
-EMT_S43640	81.181.111.146				PV18	SE	17				?		No																																																																																																																																						BL50
-EMT_S43669	81.181.111.151				PV18	SE	17				?		No																																																																																																																																						BL50
-EMT_S43667	81.181.111.149				PV18	SE	17				?		No																																																																																																																																						S.D
-EMT_S43666	81.181.111.148				PV18	SE	17				?		No																																																																																																																																						BL50
-EMT_S43680	5.183.101.88				PV488	CZ	17				?		Yes																																																																																																																																						BL50
-EMT_S44313	5.183.101.89				PV488	CZ	17				?		Yes																																																																																																																																						BL50
-EMT_S44501	81.181.105.105				PV18	US	19				?		No																																																																																																																																						BL50
-EMT_S44548	81.181.105.78				PV18	US	17				?		No																																																																																																																																						S
-EMT_S44746	81.181.111.189				PV18	SE	17				?		No																																																																																																																																						BL50
-EMT_S44883	81.181.111.240				PV18	SE	17				?		No																																																																																																																																						S.D
-EMT_S46167	80.96.156.212				PV18	JP	23				?		No																																																																																																																																						BL50
-	80.96.156.209										?		No																																																																																																																																						S
-	80.96.156.195										?		No																																																																																																																																						BL50
-	80.96.156.206										?		No																																																																																																																																						BL50
-	80.96.156.214										?		No																																																																																																																																						BL50
-EMT_S46175	31.41.153.59				PV160	RU	23				?		No																																																																																																																																						BL40
-	31.41.153.60										?		No																																																																																																																																						BL40
-	92.53.111.170										?		Yes																																																																																																																																						BL50
-EMT_S46255	92.53.111.171				PV160	RU	23				?		Yes																																																																																																																																						BL50
-	92.53.111.172										?		Yes																																																																																																																																						BL50
-	92.53.111.173										?		Yes																																																																																																																																						BL50
-	92.53.111.174										?		Yes																																																																																																																																						BL50
-EMT_S47760	45.137.70.188				PV6	DE	25				?		Yes																																																																																																																																						BL50
-	45.137.70.189										?		Yes																																																																																																																																						BL50
-	45.137.70.190										?		Yes																																																																																																																																						BL50
-	45.137.70.192										?		Yes																																																																																																																																						S
-	45.137.70.193										?		Yes																																																																																																																																						BL50
-EMT_S48547	81.181.105.216				PV18	US	-2				?		No																																																																																																																																						BL50
-	81.181.105.218										?		No																																																																																																																																						BL50
-	81.181.105.219									To keep	?		No																																																																																																																																						BL50
-	81.181.105.220										?		No																																																																																																																																						BL50
-	81.181.105.223										?		No																																																																																																																																						BL50
-EMT_S48524	81.181.105.224				PV18	US	-2				?		No																																																																																																																																						BL50
-	81.181.105.225										?		No																																																																																																																																						BL50
-	81.181.105.226									To keep	?		No																																																																																																																																						S
-	81.181.105.227										?		No																																																																																																																																						BL50
-	81.181.105.228										?		No																																																																																																																																						BL50
-EMT_S48513	81.181.105.229				PV18	US	-2				?		No																																																																																																																																						BL50
-	81.181.105.230										?		No																																																																																																																																						BL50
-	81.181.105.231										?		No																																																																																																																																						S
-	81.181.105.233									To keep	?		No																																																																																																																																						S
-	81.181.105.234										?		No																																																																																																																																						BL50
-EMT_S48509	81.181.105.235				PV18	US	-2				?		No																																																																																																																																						BL50
-	81.181.105.238										?		No																																																																																																																																						BL50
-	81.181.105.247									To keep	?		No																																																																																																																																						BL50
-	81.181.105.253										?		No																																																																																																																																						S
-	81.181.105.254										?		No																																																																																																																																						S
-EMT_S48558	͏81.181.105.209				PV18	US	-2				?		No																																																																																																																																						BL50
-	81.181.105.214										?		No																																																																																																																																						BL50
-	81.181.105.215									To keep	?		No																																																																																																																																						BL50
-	81.181.105.203										?		No																																																																																																																																						BL50
-	81.181.105.207										?		No																																																																																																																																						S
-EMT_S52403	95.131.202.15				PV535	SK	6	serenityforge.space			?	Yes	Yes																																																																																																																																						BL50
-EMT_S52229	80.96.156.104				PV18	JP	5				?		No																																																																																																																																						BL50
-EMT_S52235	80.96.156.223				PV18	JP	5				?		No																																																																																																																																						S
-EMT_S52255	80.96.156.72				PV18	JP	5	sustainablesoul.bio			Yes	Yes	Yes																																																																																																																																						BL50
-EMT_S52249	80.96.156.249				PV18	JP	5				?		No																																																																																																																																						BL50
-EMT_S52234	80.96.156.182				PV18	JP	5				?		No																																																																																																																																						S
-EMT_S52233	80.96.156.135				PV18	JP	5				?		No																																																																																																																																						BL50
-EMT_S52232	80.96.156.134				PV18	JP	5				?		No																																																																																																																																						BL50
-EMT_S52230	80.96.156.122				PV18	JP	5				?		No																																																																																																																																						BL50
-EMT_S52228	80.96.156.18				PV18	JP	5				?		No																																																																																																																																						BL50
-EMT_S52227	80.96.156.77				PV18	JP	5				?		No																																																																																																																																						BL50
-EMT_S52226	80.96.156.16				PV18	JP	5				?		No																																																																																																																																						BL50
-EMT_S52225	80.96.156.29				PV18	JP	5				?		No																																																																																																																																						BL50
-EMT_S52891	185.228.233.190				PV154	RU	7				?		No																																																																																																																																						BL50
-EMT_S52890	185.228.233.232				PV154	RU	7				?		No																																																																																																																																						BL50
-EMT_S52889	185.228.233.39				PV154	RU	7				?		Yes																																																																																																																																						BL40
-EMT_S52888	185.228.233.74				PV154	RU	7	tranquilsatellite.space			?	Yes	No																																																																																																																																						BL50
-EMT_S52887	185.228.233.29				PV154	RU	7				?		No																																																																																																																																						BL50
-EMT_S53952	87.251.83.251				PV160	RU	10	spacetimecreators.space			?	Yes	Yes																																																																																																																																						BL50
-EMT_S53951	87.251.83.250				PV160	RU	10				?		No																																																																																																																																						BL50
-EMT_S53950	87.251.83.249				PV160	RU	10				?		No																																																																																																																																						BL50
-EMT_S53949	87.251.83.248				PV160	RU	10				?		No																																																																																																																																						BL50
-EMT_S53948	87.251.83.247				PV160	RU	10				?		No																																																																																																																																						BL50
-EMT_S54103	82.117.255.135				PV383	RO	10				?		Yes																																																																																																																																						BL40
-EMT_S54102	195.123.244.84				PV383	CZ	10				?		Yes																																																																																																																																						BL50
-EMT_S54101	82.117.255.176				PV383	RO	10				?		Yes																																																																																																																																						BL40
-EMT_S54100	195.211.99.37				PV383	US	10				?		Yes																																																																																																																																						BL40
-EMT_S54099	217.12.210.71				PV383	UA	10				?		Yes																																																																																																																																						BL50
-EMT_S54098	82.118.19.113				PV383	DE	10				?		No																																																																																																																																						BL50
-EMT_S54236	45.8.125.153				PV81	RU	10						Yes																																																																																																																																						
-EMT_S54196	45.8.125.151				PV81	RU	10						Yes																																																																																																																																						BL50
-EMT_S54192	45.8.125.179				PV81	RU	10						Yes																																																																																																																																						BL50
-EMT_S54185	45.8.127.161				PV81	RU	10						Yes																																																																																																																																						BL50
-EMT_S54182	45.8.127.92				PV81	RU	10						Yes																																																																																																																																						BL50
-EMT_S54181	45.8.125.189				PV81	RU	10						Yes																																																																																																																																						BL50
-EMT_S54179	45.8.125.66				PV81	RU	10						Yes																																																																																																																																						BL50
-EMT_S54178	45.8.127.94				PV81	RU	10						Yes																																																																																																																																						BL50
-EMT_S54177	45.8.127.95				PV81	RU	10						Yes																																																																																																																																						BL40
-EMT_S54165	45.8.127.2				PV81	RU	10						Yes																																																																																																																																						BL50
-EMT_S54327	194.53.136.66				PV18	US	10						No																																																																																																																																						S
-EMT_S54317	81.181.110.139				PV18	NL	10						No																																																																																																																																						BL50
-EMT_S54316	81.181.110.138				PV18	NL	10						No																																																																																																																																						BL50
-EMT_S54314	81.181.110.82				PV18	NL	10						No																																																																																																																																						BL50
-EMT_S54313	81.181.110.81				PV18	NL	10						No																																																																																																																																						BL50
-EMT_S54302	194.53.136.63				PV18	US	10						No																																																																																																																																						BL50
-EMT_S54301	194.53.136.64				PV18	US	10						No																																																																																																																																						BL50
-EMT_S54300	80.96.55.54				PV18	ES	10						No																																																																																																																																						BL50
-EMT_S54297	80.96.55.50				PV18	ES	10						No																																																																																																																																						S
-EMT_S54295	194.53.136.65				PV18	US	10						No																																																																																																																																						BL50
-EMT_S54290	80.96.55.51				PV18	ES	10						No																																																																																																																																						BL50
-EMT_S54289	194.53.136.67				PV18	US	10						No																																																																																																																																						BL50
-EMT_S54288	80.96.55.52				PV18	ES	10						No																																																																																																																																						BL50
-EMT_S54287	80.97.47.96				PV18	US	10						No																																																																																																																																						BL50
-EMT_S54286	80.96.55.53				PV18	ES	10						No																																																																																																																																						BL50
-EMT_S54285	80.97.47.77				PV18	US	10						No																																																																																																																																						BL50
-EMT_S54284	80.97.47.62				PV18	US	10						No																																																																																																																																						BL50
-EMT_S54283	194.102.180.236				PV18	FR	10						No																																																																																																																																						BL40
-EMT_S54282	194.102.180.237				PV18	FR	10						No																																																																																																																																						BL40
-EMT_S54281	80.97.47.44				PV18	US	10						No																																																																																																																																						BL40
-EMT_S54280	194.102.180.238				PV18	FR	10						No																																																																																																																																						BL40
-EMT_S54279	194.102.180.239				PV18	FR	10						No																																																																																																																																						BL40
-EMT_S54278	81.181.110.140				PV18	NL	10						No																																																																																																																																						BL50
-EMT_S54277	194.102.180.240				PV18	FR	10						No																																																																																																																																						BL40
-EMT_S54466	80.97.47.97				PV18	US	11						No																																																																																																																																						BL40
-EMT_S54725	80.96.156.19				PV18	JP	11						No																																																																																																																																						BL50
-EMT_S54724	80.96.156.22				PV18	JP	11						No																																																																																																																																						BL50
-EMT_S54723	80.96.156.36				PV18	JP	11						No																																																																																																																																						BL50
-EMT_S54722	80.96.156.37				PV18	JP	11						No																																																																																																																																						BL50
-EMT_S54750	80.96.156.35				PV18	JP	11						No																																																																																																																																						m14
-EMT_S54570	212.193.54.67				PV236	RU	11						Yes																																																																																																																																						BL50
-EMT_S54569	212.193.48.81				PV236	RU	11						Yes																																																																																																																																						BL50
-EMT_S54755	5.183.103.163				PV488	CZ	11						Yes																																																																																																																																						BL50
-EMT_S54754	5.183.103.151				PV488	CZ	11						Yes																																																																																																																																						BL50
-EMT_S54753	5.183.103.141				PV488	CZ	11						Yes																																																																																																																																						BL50
-EMT_S54752	5.183.103.138				PV488	CZ	11						Yes																																																																																																																																						BL50
-EMT_S54763	212.193.53.138				PV236	RU	11						Yes																																																																																																																																						BL50
-EMT_S54762	212.193.54.63				PV236	RU	11						Yes																																																																																																																																						BL50
-EMT_S54761	212.193.61.114				PV236	RU	11						Yes																																																																																																																																						BL50
-EMT_S54760	212.193.57.93				PV236	RU	11						Yes																																																																																																																																						BL50
-EMT_S54759	212.193.54.29				PV236	RU	11						Yes																																																																																																																																						BL50
-EMT_S54758	212.193.61.108				PV236	RU	11						Yes																																																																																																																																						BL50
-EMT_S54757	212.193.50.246				PV236	RU	11						Yes																																																																																																																																						BL50
-EMT_S54756	212.193.60.17				PV236	RU	11						Yes																																																																																																																																						BL50
-EMT_S54882	5.183.103.83				PV488	CZ	11						No																																																																																																																																						BL50
-EMT_S56800	95.213.139.123				PV160	RU	15						Yes																																																																																																																																						m13
-EMT_S56799	95.213.139.69				PV160	RU	15						No																																																																																																																																						BL50
-EMT_S56798	95.213.139.77				PV160	RU	15						No																																																																																																																																						BL50
-EMT_S56797	95.213.139.89				PV160	RU	15						No																																																																																																																																						BL50
-EMT_S57310	80.96.157.34				PV18	US	17						No																																																																																																																																						BL50
-EMT_S57309	80.96.157.39				PV18	US	17						No																																																																																																																																						BL50
-EMT_S57307	80.96.157.33				PV18	US	17						No																																																																																																																																						BL50
-EMT_S57306	80.96.157.32				PV18	US	17						No																																																																																																																																						BL50
-EMT_S57305	80.96.157.10				PV18	US	17						No																																																																																																																																						BL50
-EMT_S57270	147.189.139.254				PV445	US	17						No																																																																																																																																						BL50
-EMT_S57269	139.64.135.63				PV445	US	17						No																																																																																																																																						BL50
-EMT_S57529	141.98.232.97				PV214	UK	18						No																																																																																																																																						m6
-EMT_S57528	141.98.232.67				PV214	UK	18						No																																																																																																																																						BL50
-EMT_S57527	141.98.232.41				PV214	UK	18						No																																																																																																																																						BL50
-EMT_S57526	141.98.232.22				PV214	UK	18						No																																																																																																																																						BL50
-EMT_S57525	141.98.232.15				PV214	UK	18						No																																																																																																																																						BL50
-EMT_S57721	5.8.76.131				PV160	RU	18						No																																																																																																																																						BL50
-EMT_S57720	5.8.76.130				PV160	RU	18						No																																																																																																																																						BL50
-EMT_S57979	212.193.60.178				PV236	RU	19						Yes																																																																																																																																						BL50
-EMT_S57978	212.193.51.156				PV236	RU	19						Yes																																																																																																																																						BL50
-EMT_S57977	212.193.57.132				PV236	RU	19						Yes																																																																																																																																						
-EMT_S57976	85.143.175.113				PV236	RU	19						Yes																																																																																																																																						BL50
-EMT_S57975	212.193.50.250				PV236	RU	19						Yes																																																																																																																																						BL50
-EMT_S57974	85.143.175.245				PV236	RU	19						Yes																																																																																																																																						BL50
-EMT_S57973	212.193.55.131				PV236	RU	19						Yes																																																																																																																																						BL50
-EMT_S57972	85.143.173.187				PV236	RU	19						Yes																																																																																																																																						BL50
-EMT_S57971	212.193.51.148				PV236	RU	19						Yes																																																																																																																																						BL50
-EMT_S58071	212.193.61.72				PV236	RU	20						Yes																																																																																																																																						BL50
-EMT_S58070	212.193.53.168				PV236	RU	20						Yes																																																																																																																																						BL50
-EMT_S58069	212.193.53.153				PV236	RU	20						Yes																																																																																																																																						BL50
-EMT_S58124	5.183.103.88				PV488	CR	20						No																																																																																																																																						BL50
-EMT_S58123	5.183.103.87				PV488	CR	20						No																																																																																																																																						BL50
-EMT_S58122	5.183.103.86				PV488	CR	20						No																																																																																																																																						
-EMT_S58121	5.183.103.85				PV488	CR	20						No																																																																																																																							S															BL50
-EMT_S58120	5.183.103.84				PV488	CR	20						No																																																																																																																																						BL50
-EMT_S58125	95.213.139.3				PV160	RU	20						Yes																																																																																																																																						BL50
-EMT_S58363	217.156.49.40				PV18	JP	20						No																																																																																																																																						BL50
-EMT_S58361	81.181.104.11				PV18	PD	20						No																																																																																																																																						BL50
-EMT_S58360	80.97.47.22				PV18	US	20						No																																																																																																																																						BL40
-EMT_S59338	5.183.103.99				PV488	CR	24						No																																																																																																																																						BL50
-EMT_S59337	5.183.102.78				PV488	UK	24						No																																																																																																																																						BL50
-EMT_S59336	5.183.103.98				PV488	CR	24						No																																																																																																																																						BL50
-EMT_S59335	5.183.103.97				PV488	CR	24						No																																																																																																																																						BL50
-EMT_S59334	5.183.102.76				PV488	UK	24						No																																																																																																																																						BL50
-EMT_S60066	5.183.102.95				PV488	UK	24						Yes																																																																																																																																						BL50
-EMT_S59401	192.254.70.113				PV1	US	24						Yes																																																																																																																																						BL50
-EMT_S59400	192.254.70.106				PV1	US	24						Yes																																																																																																																																						BL50
-EMT_S59399	192.254.70.109				PV1	US	24						Yes																																																																																																																																						BL50
-EMT_S59398	192.254.70.105				PV1	US	24						Yes																																																																																																																																						BL50
-EMT_S59448	45.131.65.140				PV6	DE	24						Yes																																																																																																																																						BL50
-EMT_S59447	45.131.65.138				PV6	DE	24						Yes																																																																																																																																						BL50
-EMT_S59446	45.131.65.136				PV6	DE	24						Yes																																																																																																																																						BL50
-EMT_S59445	45.131.65.158				PV6	DE	24						Yes																																																																																																																																						BL50
-EMT_S59444	45.131.65.82				PV6	DE	24						Yes																																																																																																																																						BL50
-EMT_S59481	104.219.233.216				PV452	AU	25						Yes																																																																																																																																						BL50
-EMT_S59480	104.219.233.215				PV452	AU	25						Yes																																																																																																																																						S
-EMT_S59479	104.219.233.214				PV452	AU	25						Yes																																																																																																																																						BL50
-EMT_S59478	104.219.233.213				PV452	AU	25						Yes																																																																																																																																						BL50
-EMT_S59477	104.219.233.212				PV452	AU	25						Yes																																																																																																																																						BL50
-EMT_S59476	104.219.233.211				PV452	AU	25						Yes																																																																																																																																						BL50
-EMT_S59475	104.219.233.218				PV452	AU	25						Yes																																																																																																																																						BL40
-EMT_S59474	104.219.233.217				PV452	AU	25						Yes																																																																																																																																						BL40
-EMT_S59473	104.219.233.210				PV452	AU	25						Yes																																																																																																																																						BL50
-EMT_S59641	104.219.233.219				PV452	AU	25						Yes																																																																																																																																						BL40
-EMT_S59964	104.219.233.220				PV452	AU	26						Yes																																																																																																																																						BL40
-EMT_S59963	104.219.233.229				PV452	AU	26						Yes																																																																																																																																						BL50
-EMT_S59962	104.219.233.228				PV452	AU	26						Yes																																																																																																																																						BL50
-EMT_S59961	104.219.233.227				PV452	AU	26						Yes																																																																																																																																						BL50
-EMT_S59960	104.219.233.226				PV452	AU	26						Yes																																																																																																																																						BL50
-EMT_S59959	104.219.233.225				PV452	AU	26						Yes																																																																																																																																						BL40
-EMT_S59958	104.219.233.224				PV452	AU	26						Yes																																																																																																																																						BL40
-EMT_S59957	104.219.233.223				PV452	AU	26						Yes																																																																																																																																						BL40
-EMT_S59956	104.219.233.222				PV452	AU	26						Yes																																																																																																																																						BL40
-EMT_S59955	104.219.233.221				PV452	AU	26						Yes																																																																																																																																						BL40
-EMT_S59725	80.97.47.73				PV18	US	25						No																																																																																																																																						BL40
-	80.97.47.74												No																																																																																																																																						BL40
-	80.97.47.75												No																																																																																																																																						BL40
-	80.97.47.76												No																																																																																																																																						BL40
-	80.97.47.147												No																																																																																																																																						BL40
-EMT_S60300	185.113.250.5				PV160	FR	27						No																																																																																																																																						m13
-																																																																																																																																																			
-C_SF60146	91.149.233.206																																																																																																																																																		
-C_SF60116	38.135.55.199																																																																																																																																																		m14
-C_SF60156	38.60.247.131																																																																																																																																																		m6
-C_SF60188	91.149.240.205																																																																																																																																																		M15
-C_SF60350	91.149.233.37																																																																																																																																																		
-C_SF60349	91.149.253.198																																																																																																																																																		
-C_SF60344	194.87.58.58																																																																																																																																																		
-C_SF60342	194.87.58.60																																																																																																																																																		
-C_SF60341	193.124.49.11																																																																																																																																																		
-C_SF60339	91.149.253.209																																																																																																																																																		
-C_SF60338	194.87.58.55																																																																																																																																																		
-C_SF60280	38.60.216.191																																																																																																																																																		
-C_SF60377	91.149.255.44																																																																																																																																																		m6
-C_SF60401	38.60.247.109																																																																																																																																																		m6
-C_SF60396	38.60.247.35																																																																																																																																																		M14
-C_SF60394	38.60.247.38																																																																																																																																																		m6
-C_SF60393	38.60.247.224																																																																																																																																																		
-C_SF60392	38.60.247.186																																																																																																																																																		
-C_SF60391	38.60.247.120																																																																																																																																																		
-C_SF60390	156.244.14.98																																																																																																																																																		m13
-C_SF60389	156.244.14.204																																																																																																																																																		
-C_SF60388	156.244.14.22																																																																																																																																																		m13
-C_SF60387	156.244.14.254																																																																																																																																																		m13
-C_SF60416	38.60.216.166																																																																																																																																																		M15
-C_SF60414	38.60.136.75																																																																																																																																																		M15
-C_SF60413	38.60.216.68																																																																																																																																																		M5
-C_SF60411	38.60.216.30																																																																																																																																																		m14
-C_SF60410	38.60.216.39																																																																																																																																																		m14
-C_SF60408	38.60.216.89																																																																																																																																																		m14
-C_SF60459	213.182.204.177																																																																																																																																																		m14
-C_SF60512	38.60.221.171																																																																																																																																																		m14
-C_SF60511	38.60.223.222																																																																																																																																																		m14
-C_SF60509	38.60.223.170																																																																																																																																																		BL40
-C_SF60508	38.60.223.177																																																																																																																																																		BL40
-C_SF60506	156.244.2.86																																																																																																																																																		BL40
-C_SF60505	38.60.224.227																																																																																																																																																		BL40
-C_SF60504	156.244.2.210																																																																																																																																																		m13
-C_SF60503	154.90.63.233																																																																																																																																																		BL40
-C_SF60502	154.90.62.153																																																																																																																																																		BL40
-C_SF60501	154.90.62.151																																																																																																																																																		BL40
-C_SF60494	156.244.19.5																																																																																																																																																		m13
-C_SF60521	2.58.95.38																																																																																																																																																		BL40
-C_SF60519	207.174.30.117																																																																																																																																																		BL40
-C_SF60518	213.182.204.23																																																																																																																																																		m13
-C_SF60517	213.182.204.118																																																																																																																																																		BL50
-C_SF60516	2.58.95.163																																																																																																																																																		BL50
-C_SF60515	91.149.233.4																																																																																																																																																		BL40
-C_SF60514	92.114.54.177																																																																																																																																																		m13
-C_SF60513	213.182.204.200																																																																																																																																																		m14
+87.251.83.50				PV160	RU	5	astralharbor.space			?	Yes	Yes		BL50																																																																																																																																				BL50
+141.98.232.27				PV214	UK	20	beyondboundaries.space			?	Yes	No																																																																																																																																						BL50
+141.98.232.219				PV214	UK	20	careerchronicle.bio			?	Yes	No																																																																																																																																						BL50
+87.251.83.49				PV160	RU	5	careerclarity.bio			?	Yes	No																																																																																																																																						BL50
+87.251.81.154				PV160	RU	1	interstellarhub.space			?	Yes	No																																																																																																																																						BL50
+87.251.81.155									To keep	?	No	No																																																																																																																																						BL50
+87.251.81.156										?	No	No																																																																																																																																						BL50
+87.251.81.148				PV160	RU	1				?		No																																																																																																																																						S
+87.251.81.149									To keep	?		No																																																																																																																																						BL50
+87.251.81.150										?		No																																																																																																																																						BL50
+87.251.81.151				PV160	RU	1				?		No																																																																																																																																						BL50
+87.251.81.152									To keep	?		No																																																																																																																																						BL50
+87.251.81.153										?		No																																																																																																																																						BL50
+80.96.156.187				PV18	JP	27				?		No																																																																																																																																						S
+80.96.156.188				PV18	JP	27				?		No																																																																																																																																						S
+80.96.156.210				PV18	JP	27	globalodyssey.bio			?		No																																																																																																																																						BL50
+80.96.156.217				PV18	JP	27				?		No																																																																																																																																						BL50
+80.96.156.224				PV18	JP	27				?		No																																																																																																																																						BL50
+80.96.156.59				PV18	JP	27				?		No																																																																																																																																						BL50
+80.96.157.66				PV18	US	2				?		No																																																																																																																																						BL50
+80.96.156.53				PV18	US	17				?		No																																																																																																																																						BL50
+5.183.102.140				PV488	UK	8				?		Yes																																																																																																																																						BL40
+5.183.103.150				PV488	CZ	16				?		Yes																																																																																																																																						BL40
+5.183.103.160				PV488	CZ	16	technovast.space			Clean	Yes	Yes																																																																																																																																						BL40
+5.183.103.132				PV488	CZ	6				?		Yes																																																																																																																																						BL50
+80.96.156.185				PV18	CZ	17				?		No																																																																																																																																						BL50
+104.219.233.179				PV452	AU	24	techinnovates.site			Clean	Yes	Yes																																																																																																																																						M15
+104.219.233.131				PV452	AU	24	cosmicfront.space			Yes	Yes	Yes																																																																																																																																						BL40
+104.219.233.191				PV452	AU	25	culinarycurator.bio			Clean	Yes	Yes																																																																																																																																						BL40
+80.96.156.248				PV18	JP	25				?		No																																																																																																																																						BL50
+80.96.156.250				PV18	JP	25				?		No																																																																																																																																						BL50
+80.96.156.251				PV18	JP	25				?		No																																																																																																																																						BL50
+80.96.156.254				PV18	JP	25				?		No																																																																																																																																						BL50
+80.96.156.253				PV18	JP	25				?		No																																																																																																																																						BL50
+95.213.139.17				PV160	RU	25				?		Yes																																																																																																																																						BL50
+95.213.139.10				PV160	RU	25				?		Yes																																																																																																																																						BL50
+95.213.173.37				PV160	RU	7				?		Yes																																																																																																																																						m6
+95.213.173.38				PV160	RU	7				?		Yes																																																																																																																																						BL50
+95.213.139.9				PV160	RU	25				?		Yes																																																																																																																																						BL50
+95.213.139.8				PV160	RU	25				?		Yes																																																																																																																																						BL50
+81.181.111.84				PV18	SE	2	mindfulmomentum.bio			Yes	Yes	Yes																																																																																																																																						BL50
+81.181.104.57				PV18	PL	11			2024-11-21	?		No																																																																																																																																						
+194.102.180.158				PV18	FR	11				?		No																																																																																																																																						BL40
+81.181.108.24				PV18	GB	11				?		No																																																																																																																																						BL50
+103.163.214.112				PV528	VN	11				?		No																																																																																																																																						BL50
+193.226.76.57				PV18	UK	11				?		No																																																																																																																																						BL50
+81.181.110.86				PV18	NL	11				?		No																																																																																																																																						BL50
+5.253.247.252				PV316	DE	11				?		Yes																																																																																																																																						BL50
+45.8.127.195				PV81	RU	12	nebulaexplorer.space			Clean	Yes	Yes																																																																																																																																						BL50
+45.8.127.146				PV81	RU	12				?		Yes																																																																																																																																						BL50
+5.183.103.154				PV488	CZ	14				?		Yes																																																																																																																																						BL50
+5.183.101.77				PV488	CZ	16				?		Yes																																																																																																																																						BL50
+5.183.103.182				PV488	CZ	16				?		Yes																																																																																																																																						BL50
+81.181.111.146				PV18	SE	17				?		No																																																																																																																																						BL50
+81.181.111.151				PV18	SE	17				?		No																																																																																																																																						BL50
+81.181.111.149				PV18	SE	17			2024-11-27	?		No																																																																																																																																						S.D
+81.181.111.148				PV18	SE	17				?		No																																																																																																																																						BL50
+5.183.101.88				PV488	CZ	17				?		Yes																																																																																																																																						BL50
+5.183.101.89				PV488	CZ	17				?		Yes																																																																																																																																						BL50
+81.181.105.105				PV18	US	19				?		No																																																																																																																																						BL50
+81.181.105.78				PV18	US	17				?		No																																																																																																																																						S
+81.181.111.189				PV18	SE	17				?		No																																																																																																																																						BL50
+81.181.111.240				PV18	SE	17			2024-11-27	?		No																																																																																																																																						S.D
+80.96.156.212				PV18	JP	23				?		No																																																																																																																																						BL50
+80.96.156.209										?		No																																																																																																																																						S
+80.96.156.195										?		No																																																																																																																																						BL50
+80.96.156.206										?		No																																																																																																																																						BL50
+80.96.156.214										?		No																																																																																																																																						BL50
+31.41.153.59				PV160	RU	23				?		No																																																																																																																																						BL40
+31.41.153.60										?		No																																																																																																																																						BL40
+92.53.111.170										?		Yes																																																																																																																																						BL50
+92.53.111.171				PV160	RU	23				?		Yes																																																																																																																																						BL50
+92.53.111.172										?		Yes																																																																																																																																						BL50
+92.53.111.173										?		Yes																																																																																																																																						BL50
+92.53.111.174										?		Yes																																																																																																																																						BL50
+45.137.70.188				PV6	DE	25				?		Yes																																																																																																																																						BL50
+45.137.70.189										?		Yes																																																																																																																																						BL50
+45.137.70.190										?		Yes																																																																																																																																						BL50
+45.137.70.192										?		Yes																																																																																																																																						S
+45.137.70.193										?		Yes																																																																																																																																						BL50
+81.181.105.216				PV18	US	-2				?		No																																																																																																																																						BL50
+81.181.105.218										?		No																																																																																																																																						BL50
+81.181.105.219									To keep	?		No																																																																																																																																						BL50
+81.181.105.220										?		No																																																																																																																																						BL50
+81.181.105.223										?		No																																																																																																																																						BL50
+81.181.105.224				PV18	US	-2				?		No																																																																																																																																						BL50
+81.181.105.225										?		No																																																																																																																																						BL50
+81.181.105.226									To keep	?		No																																																																																																																																						S
+81.181.105.227										?		No																																																																																																																																						BL50
+81.181.105.228										?		No																																																																																																																																						BL50
+81.181.105.229				PV18	US	-2				?		No																																																																																																																																						BL50
+81.181.105.230										?		No																																																																																																																																						BL50
+81.181.105.231										?		No																																																																																																																																						S
+81.181.105.233									To keep	?		No																																																																																																																																						S
+81.181.105.234										?		No																																																																																																																																						BL50
+81.181.105.235				PV18	US	-2				?		No																																																																																																																																						BL50
+81.181.105.238										?		No																																																																																																																																						BL50
+81.181.105.247									To keep	?		No																																																																																																																																						BL50
+81.181.105.253										?		No																																																																																																																																						S
+81.181.105.254										?		No																																																																																																																																						S
+͏81.181.105.209				PV18	US	-2				?		No																																																																																																																																						BL50
+81.181.105.214										?		No																																																																																																																																						BL50
+81.181.105.215									To keep	?		No																																																																																																																																						BL50
+81.181.105.203										?		No																																																																																																																																						BL50
+81.181.105.207										?		No																																																																																																																																						S
+95.131.202.15				PV535	SK	6	serenityforge.space			?	Yes	Yes																																																																																																																																						BL50
+80.96.156.104				PV18	JP	5				?		No																																																																																																																																						BL50
+80.96.156.223				PV18	JP	5				?		No																																																																																																																																						S
+80.96.156.72				PV18	JP	5	sustainablesoul.bio			Yes	Yes	Yes																																																																																																																																						BL50
+80.96.156.249				PV18	JP	5				?		No																																																																																																																																						BL50
+80.96.156.182				PV18	JP	5				?		No																																																																																																																																						S
+80.96.156.135				PV18	JP	5				?		No																																																																																																																																						BL50
+80.96.156.134				PV18	JP	5				?		No																																																																																																																																						BL50
+80.96.156.122				PV18	JP	5				?		No																																																																																																																																						BL50
+80.96.156.18				PV18	JP	5				?		No																																																																																																																																						BL50
+80.96.156.77				PV18	JP	5				?		No																																																																																																																																						BL50
+80.96.156.16				PV18	JP	5				?		No																																																																																																																																						BL50
+80.96.156.29				PV18	JP	5				?		No																																																																																																																																						BL50
+185.228.233.190				PV154	RU	7				?		No																																																																																																																																						BL50
+185.228.233.232				PV154	RU	7				?		No																																																																																																																																						BL50
+185.228.233.39				PV154	RU	7				?		Yes																																																																																																																																						BL40
+185.228.233.74				PV154	RU	7	tranquilsatellite.space			?	Yes	No																																																																																																																																						BL50
+185.228.233.29				PV154	RU	7				?		No																																																																																																																																						BL50
+87.251.83.251				PV160	RU	10	spacetimecreators.space			?	Yes	Yes																																																																																																																																						BL50
+87.251.83.250				PV160	RU	10				?		No																																																																																																																																						BL50
+87.251.83.249				PV160	RU	10				?		No																																																																																																																																						BL50
+87.251.83.248				PV160	RU	10				?		No																																																																																																																																						BL50
+87.251.83.247				PV160	RU	10				?		No																																																																																																																																						BL50
+82.117.255.135				PV383	RO	10				?		Yes																																																																																																																																						BL40
+195.123.244.84				PV383	CZ	10				?		Yes																																																																																																																																						BL50
+82.117.255.176				PV383	RO	10				?		Yes																																																																																																																																						BL40
+195.211.99.37				PV383	US	10				?		Yes																																																																																																																																						BL40
+217.12.210.71				PV383	UA	10				?		Yes																																																																																																																																						BL50
+82.118.19.113				PV383	DE	10				?		No																																																																																																																																						BL50
+45.8.125.153				PV81	RU	10						Yes																																																																																																																																						BL50
+45.8.125.151				PV81	RU	10						Yes																																																																																																																																						BL50
+45.8.125.179				PV81	RU	10						Yes																																																																																																																																						BL50
+45.8.127.161				PV81	RU	10						Yes																																																																																																																																						BL50
+45.8.127.92				PV81	RU	10						Yes																																																																																																																																						BL50
+45.8.125.189				PV81	RU	10						Yes																																																																																																																																						BL50
+45.8.125.66				PV81	RU	10						Yes																																																																																																																																						BL50
+45.8.127.94				PV81	RU	10						Yes																																																																																																																																						BL50
+45.8.127.95				PV81	RU	10						Yes																																																																																																																																						BL40
+45.8.127.2				PV81	RU	10						Yes																																																																																																																																						BL50
+194.53.136.66				PV18	US	10						No																																																																																																																																						S
+81.181.110.139				PV18	NL	10						No																																																																																																																																						BL50
+81.181.110.138				PV18	NL	10						No																																																																																																																																						BL50
+81.181.110.82				PV18	NL	10						No																																																																																																																																						BL50
+81.181.110.81				PV18	NL	10						No																																																																																																																																						BL50
+194.53.136.63				PV18	US	10						No																																																																																																																																						BL50
+194.53.136.64				PV18	US	10						No																																																																																																																																						BL50
+80.96.55.54				PV18	ES	10						No																																																																																																																																						BL50
+80.96.55.50				PV18	ES	10						No																																																																																																																																						S
+194.53.136.65				PV18	US	10						No																																																																																																																																						BL50
+80.96.55.51				PV18	ES	10						No																																																																																																																																						BL50
+194.53.136.67				PV18	US	10						No																																																																																																																																						BL50
+80.96.55.52				PV18	ES	10						No																																																																																																																																						BL50
+80.97.47.96				PV18	US	10						No																																																																																																																																						BL50
+80.96.55.53				PV18	ES	10						No																																																																																																																																						BL50
+80.97.47.77				PV18	US	10						No																																																																																																																																						BL50
+80.97.47.62				PV18	US	10						No																																																																																																																																						BL50
+194.102.180.236				PV18	FR	10						No																																																																																																																																						BL40
+194.102.180.237				PV18	FR	10						No																																																																																																																																						BL40
+80.97.47.44				PV18	US	10						No																																																																																																																																						BL40
+194.102.180.238				PV18	FR	10						No																																																																																																																																						BL40
+194.102.180.239				PV18	FR	10						No																																																																																																																																						BL40
+81.181.110.140				PV18	NL	10						No																																																																																																																																						BL50
+194.102.180.240				PV18	FR	10						No																																																																																																																																						BL40
+80.97.47.97				PV18	US	11						No																																																																																																																																						BL40
+80.96.156.19				PV18	JP	11						No																																																																																																																																						BL50
+80.96.156.22				PV18	JP	11						No																																																																																																																																						BL50
+80.96.156.36				PV18	JP	11						No																																																																																																																																						BL50
+80.96.156.37				PV18	JP	11						No																																																																																																																																						BL50
+80.96.156.35				PV18	JP	11						No																																																																																																																																						m14
+212.193.54.67				PV236	RU	11						Yes																																																																																																																																						BL50
+212.193.48.81				PV236	RU	11						Yes																																																																																																																																						BL50
+5.183.103.163				PV488	CZ	11						Yes																																																																																																																																						BL50
+5.183.103.151				PV488	CZ	11						Yes																																																																																																																																						BL50
+5.183.103.141				PV488	CZ	11						Yes																																																																																																																																						BL50
+5.183.103.138				PV488	CZ	11						Yes																																																																																																																																						BL50
+212.193.53.138				PV236	RU	11						Yes																																																																																																																																						BL50
+212.193.54.63				PV236	RU	11						Yes																																																																																																																																						BL50
+212.193.61.114				PV236	RU	11						Yes																																																																																																																																						BL50
+212.193.57.93				PV236	RU	11						Yes																																																																																																																																						BL50
+212.193.54.29				PV236	RU	11						Yes																																																																																																																																						BL50
+212.193.61.108				PV236	RU	11						Yes																																																																																																																																						BL50
+212.193.50.246				PV236	RU	11						Yes																																																																																																																																						BL50
+212.193.60.17				PV236	RU	11						Yes																																																																																																																																						BL50
+5.183.103.83				PV488	CZ	11						No																																																																																																																																						BL50
+95.213.139.123				PV160	RU	15						Yes																																																																																																																																						m13
+95.213.139.69				PV160	RU	15						No																																																																																																																																						BL50
+95.213.139.77				PV160	RU	15						No																																																																																																																																						BL50
+95.213.139.89				PV160	RU	15						No																																																																																																																																						BL50
+80.96.157.34				PV18	US	17						No																																																																																																																																						BL50
+80.96.157.39				PV18	US	17						No																																																																																																																																						BL50
+80.96.157.33				PV18	US	17						No																																																																																																																																						BL50
+80.96.157.32				PV18	US	17						No																																																																																																																																						BL50
+80.96.157.10				PV18	US	17						No																																																																																																																																						BL50
+147.189.139.254				PV445	US	17						No																																																																																																																																						BL50
+139.64.135.63				PV445	US	17						No																																																																																																																																						BL50
+141.98.232.97				PV214	UK	18						No																																																																																																																																						m6
+141.98.232.67				PV214	UK	18						No																																																																																																																																						BL50
+141.98.232.41				PV214	UK	18						No																																																																																																																																						BL50
+141.98.232.22				PV214	UK	18						No																																																																																																																																						BL50
+141.98.232.15				PV214	UK	18						No																																																																																																																																						BL50
+5.8.76.131				PV160	RU	18						No																																																																																																																																						BL50
+5.8.76.130				PV160	RU	18						No																																																																																																																																						BL50
+212.193.60.178				PV236	RU	19						Yes																																																																																																																																						BL50
+212.193.51.156				PV236	RU	19						Yes																																																																																																																																						BL50
+212.193.57.132				PV236	RU	19						Yes																																																																																																																																						
+85.143.175.113				PV236	RU	19						Yes																																																																																																																																						BL50
+212.193.50.250				PV236	RU	19						Yes																																																																																																																																						BL50
+85.143.175.245				PV236	RU	19						Yes																																																																																																																																						BL50
+212.193.55.131				PV236	RU	19						Yes																																																																																																																																						BL50
+85.143.173.187				PV236	RU	19						Yes																																																																																																																																						BL50
+212.193.51.148				PV236	RU	19						Yes																																																																																																																																						BL50
+212.193.61.72				PV236	RU	20						Yes																																																																																																																																						BL50
+212.193.53.168				PV236	RU	20						Yes																																																																																																																																						BL50
+212.193.53.153				PV236	RU	20						Yes																																																																																																																																						BL50
+5.183.103.88				PV488	CR	20						No																																																																																																																																						BL50
+5.183.103.87				PV488	CR	20						No																																																																																																																																						BL50
+5.183.103.86				PV488	CR	20						No																																																																																																																																						BL50
+5.183.103.85				PV488	CR	20						No																																																																																																																							S															BL50
+5.183.103.84				PV488	CR	20						No																																																																																																																																						BL50
+95.213.139.3				PV160	RU	20						Yes																																																																																																																																						BL50
+217.156.49.40				PV18	JP	20						No																																																																																																																																						BL50
+81.181.104.11				PV18	PD	20						No																																																																																																																																						BL50
+80.97.47.22				PV18	US	20						No																																																																																																																																						BL40
+5.183.103.99				PV488	CR	24						No																																																																																																																																						BL50
+5.183.102.78				PV488	UK	24						No																																																																																																																																						BL50
+5.183.103.98				PV488	CR	24						No																																																																																																																																						BL50
+5.183.103.97				PV488	CR	24						No																																																																																																																																						BL50
+5.183.102.76				PV488	UK	24						No																																																																																																																																						BL50
+5.183.102.95				PV488	UK	24						Yes																																																																																																																																						BL50
+192.254.70.113				PV1	US	24						Yes																																																																																																																																						BL50
+192.254.70.106				PV1	US	24						Yes																																																																																																																																						BL50
+192.254.70.109				PV1	US	24						Yes																																																																																																																																						BL50
+192.254.70.105				PV1	US	24						Yes																																																																																																																																						BL50
+45.131.65.140				PV6	DE	24						Yes																																																																																																																																						BL50
+45.131.65.138				PV6	DE	24						Yes																																																																																																																																						BL50
+45.131.65.136				PV6	DE	24						Yes																																																																																																																																						BL50
+45.131.65.158				PV6	DE	24						Yes																																																																																																																																						BL50
+45.131.65.82				PV6	DE	24						Yes																																																																																																																																						BL50
+104.219.233.216				PV452	AU	25						Yes																																																																																																																																						BL50
+104.219.233.215				PV452	AU	25						Yes																																																																																																																																						S
+104.219.233.214				PV452	AU	25						Yes																																																																																																																																						BL50
+104.219.233.213				PV452	AU	25						Yes																																																																																																																																						BL50
+104.219.233.212				PV452	AU	25						Yes																																																																																																																																						BL50
+104.219.233.211				PV452	AU	25						Yes																																																																																																																																						BL50
+104.219.233.218				PV452	AU	25						Yes																																																																																																																																						BL40
+104.219.233.217				PV452	AU	25						Yes																																																																																																																																						BL40
+104.219.233.210				PV452	AU	25						Yes																																																																																																																																						BL50
+104.219.233.219				PV452	AU	25						Yes																																																																																																																																						BL40
+104.219.233.220				PV452	AU	26						Yes																																																																																																																																						BL40
+104.219.233.229				PV452	AU	26						Yes																																																																																																																																						BL50
+104.219.233.228				PV452	AU	26						Yes																																																																																																																																						BL50
+104.219.233.227				PV452	AU	26						Yes																																																																																																																																						BL50
+104.219.233.226				PV452	AU	26						Yes																																																																																																																																						BL50
+104.219.233.225				PV452	AU	26						Yes																																																																																																																																						BL40
+104.219.233.224				PV452	AU	26						Yes																																																																																																																																						BL40
+104.219.233.223				PV452	AU	26						Yes																																																																																																																																						BL40
+104.219.233.222				PV452	AU	26						Yes																																																																																																																																						BL40
+104.219.233.221				PV452	AU	26						Yes																																																																																																																																						BL40
+80.97.47.73				PV18	US	25						No																																																																																																																																						BL40
+80.97.47.74												No																																																																																																																																						BL40
+80.97.47.75												No																																																																																																																																						BL40
+80.97.47.76												No																																																																																																																																						BL40
+80.97.47.147												No																																																																																																																																						BL40
+185.113.250.5				PV160	FR	27						No																																																																																																																																						m13
+																																																																																																																																																		
+91.149.233.206																																																																																																																																																		m13
+38.135.55.199																																																																																																																																																		m14
+38.60.247.131																																																																																																																																																		m6
+91.149.240.205																																																																																																																																																		M15
+91.149.233.37																																																																																																																																																		
+91.149.253.198																																																																																																																																																		m13
+194.87.58.58																																																																																																																																																		
+194.87.58.60																																																																																																																																																		
+193.124.49.11																																																																																																																																																		
+91.149.253.209																																																																																																																																																		
+194.87.58.55																																																																																																																																																		M15
+38.60.216.191																																																																																																																																																		
+91.149.255.44																																																																																																																																																		m6
+38.60.247.109																																																																																																																																																		m6
+38.60.247.35																																																																																																																																																		M14
+38.60.247.224																																																																																																																																																		
+38.60.247.186																																																																																																																																																		
+38.60.247.120																																																																																																																																																		M15
+156.244.14.98																																																																																																																																																		m13
+156.244.14.204																																																																																																																																																		m13
+156.244.14.22																																																																																																																																																		m13
+156.244.14.254																																																																																																																																																		m13
+38.60.216.166																																																																																																																																																		M15
+38.60.136.75																																																																																																																																																		M15
+38.60.216.68																																																																																																																																																		M5
+38.60.216.30																																																																																																																																																		m14
+38.60.216.39																																																																																																																																																		m14
+38.60.216.89																																																																																																																																																		m14
+213.182.204.177																																																																																																																																																		m14
+38.60.221.171																																																																																																																																																		m14
+38.60.223.222																																																																																																																																																		m14
+38.60.223.170																																																																																																																																																		BL40
+38.60.223.177																																																																																																																																																		BL40
+156.244.2.86																																																																																																																																																		BL40
+38.60.224.227																																																																																																																																																		BL40
+156.244.2.210																																																																																																																																																		m13
+154.90.63.233																																																																																																																																																		BL40
+154.90.62.153																																																																																																																																																		BL40
+154.90.62.151																																																																																																																																																		BL40
+156.244.19.5																																																																																																																																																		m13
+2.58.95.38																																																																																																																																																		BL40
+207.174.30.117																																																																																																																																																		BL40
+213.182.204.23																																																																																																																																																		m13
+91.149.233.4																																																																																																																																																		BL40
+92.114.54.177																																																																																																																																																		m13
+213.182.204.200																																																																																																																																																		m14
+212.193.2.12																																																																																																																																																		M15
+154.205.152.20																																																																																																																																																		BL40
+156.244.19.191																																																																																																																																																		m13
+212.192.223.250																																																																																																																																																		BL40
+91.149.253.24																																																																																																																																																		BL40
+38.135.55.249																																																																																																																																																		BL40
+213.182.204.98																																																																																																																																																		M15
+194.58.68.207																																																																																																																																																		BL40
+212.193.1.46																																																																																																																																																		BL40
+91.149.242.187																																																																																																																																																		BL40
+91.149.242.8																																																																																																																																																		BL40
+194.58.39.246																																																																																																																																																		BL40
+2.58.95.103																																																																																																																																																		BL40
+207.174.30.115																																																																																																																																																		BL40
+194.58.68.254																																																																																																																																																		m6
+194.87.58.74																																																																																																																																																		M15
+194.87.82.35																																																																																																																																																		BL40
+194.87.82.85																																																																																																																																																		BL40
+91.149.242.86																																																																																																																																																		BL40
+213.182.204.201																																																																																																																																																		m13
+91.149.223.5																																																																																																																																																		BL40
+194.58.40.224																																																																																																																																																		BL40
+194.87.82.8																																																																																																																																																		BL40
+212.192.223.82																																																																																																																																																		BL40
+212.192.223.207																																																																																																																																																		BL40
+																																																																																																																																																		
+																																																																																																																																																		
+166.88.130.64																																																																																																																																																		m13
