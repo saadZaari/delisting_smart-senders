@@ -20,5 +20,5 @@ if __name__ == "__main__":
     # Path to your local git repository (two levels up from the script's location)
     repo_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))  # Goes up two folders
 
-    # Pull from the 'master' branch
+    # Pull from the 'master' branc
     update_repo(repo_path, 'master')
